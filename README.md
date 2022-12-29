@@ -2,7 +2,7 @@
 - 👀 I’m interested in a new job.
 - 🌱 I’m currently learning django, python.
 - 💞️ I’m looking to collaborate on django, python, reactnative projects
-- 📫 How to reach me telegram, whatsapp: +57 317 534 5577
+- 📫 How to reach me telegram, whatsapp: +57 317 263 9507
 
 <!---
 BosatzuKannon/BosatzuKannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
